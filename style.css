@@ -7,7 +7,7 @@
 .section1{
     width: 100%;
     min-height: 100vh;
-    background-image: url(/images/pexels-ricardo-esquivel-1563256.jpg);
+    background-image: url(images/pexels-ricardo-esquivel-1563256.jpg);
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
@@ -66,9 +66,9 @@
 }
 
 .img-1{
-    background-image: url(/images/pexels-pixabay-273935.jpg);
+    background-image: url(images/pexels-pixabay-273935.jpg);
 }
 
 .img-2{
-    background-image: url(/images/pexels-pixabay-36717.jpg);
+    background-image: url(images/pexels-pixabay-36717.jpg);
 }
