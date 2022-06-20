@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.section1{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(/images/pexels-ricardo-esquivel-1563256.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.section1 span{
+    background-color: rgb(17, 17, 17);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    line-height: 100vh;
+}
+
+.section2{
+    width: 100%;
+    padding: 70px;
+    text-align: center;
+    background-color: rgb(244, 244, 244);
+    color: rgb(102, 102, 102);
+}
+
+.section2 h2{
+    margin-bottom: 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.section2 p{
+    font-size: 18px;
+}
+
+.dark{
+    background-color: rgb(40, 46, 52);
+    color: rgb(221, 221, 221);
+}
+
+.section3{
+    width: 100%;
+    height: 50vh;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.section3 span{
+    line-height: 50vh;
+    font-size: 24px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    color: rgb(221, 221, 221);
+
+}
+
+.img-1{
+    background-image: url(/images/pexels-pixabay-273935.jpg);
+}
+
+.img-2{
+    background-image: url(/images/pexels-pixabay-36717.jpg);
+}
